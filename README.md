@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**kmassi69/kmassi69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Masiuddin Khan
 
-Here are some ideas to get you started:
+💻 Full Stack Developer | MERN Stack | Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build scalable web applications and AI-powered systems.  
+Strong foundation in **Data Structures, OOP, and DBMS**.
+
+## 🚀 Projects
+- **Blood Group Detection using Fingerprint** – CNN (VGG-16) model with 92% accuracy  
+- **AI Resume Analyzer** – Resume analysis web app using React, Node.js, SQL  
+- **AI Chatbot (MERN)** – Real-time chatbot with AI-powered responses  
+- **Professional Networking Platform** – LinkedIn-like app using React, Redux, Firebase  
+
+## 🛠 Tech Stack
+C++ • JavaScript • Python • SQL  
+React.js • Node.js • Express.js  
+MongoDB • Firebase • Git
+
+## 🌱 Currently Learning
+Advanced Backend Development & System Design
+
+## 📫 Contact
+Email: **kmasiuddin786@gmail.com**  
+LinkedIn: **linkedin.com/in/masiuddinkhan**
